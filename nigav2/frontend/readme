@@ -1,0 +1,94 @@
+University Landing Pages (Two Project Setup)
+
+This repository contains two separate university landing pages that I built for lead generation. Both pages use modern HTML, CSS, and JavaScript with smooth animations and fully working contact forms connected to Pipedream for capturing leads.
+
+Page 1 – Himalayan Global University (HGU)
+
+This landing page has a premium visual layout with:
+
+A large hero section with slider animation
+
+Course details
+
+Fees modal
+
+Gallery and campus sections
+
+Smooth scroll and reveal animations
+
+Fully responsive design
+
+A lead submission form connected to Pipedream
+
+The form sends details like name, email, phone, state, course interested, intake year, and a source tag to identify that the lead came from Page 1.
+
+Pipedream webhook used for this page:
+
+https://eooa3uhg2tdos2n.m.pipedream.net
+
+Page 2 – National Tech University (NTU)
+
+This landing page has a slightly different design style. It is cleaner and more minimal with:
+
+A simple hero section
+
+Animated program cards
+
+Program details modal
+
+Research and campus sections
+
+Custom animations and transitions
+
+Responsive layout for mobile and desktop
+
+Separate Pipedream webhook for this form
+
+Webhook used for Page 2:
+
+https://eoi56lubuugv06i.m.pipedream.net
+
+
+Both forms send JSON data directly to Pipedream using a fetch request.
+
+Project Structure
+uni1.html   (HGU Landing Page)
+uni2.html   (NTU Landing Page)
+assets/
+   css/
+   js/
+   images/
+   data/
+README.md
+
+Technologies Used
+
+HTML5
+
+CSS3
+
+Vanilla JavaScript
+
+Intersection Observer animations
+
+Pipedream for receiving form data
+
+No backend server required
+
+Fully static frontend compatible with any static hosting service
+
+Deployment Notes
+
+This project is meant to be deployed as a static site.
+
+If using Render:
+
+Select "Static Site"
+
+Publish directory: ./https://university-landing-pages-xjnw.onrender.com/nigav2/frontend/uni1.html and https://university-landing-pages-xjnw.onrender.com/nigav2/frontend/uni2.html
+
+Leave Build Command empty
+
+No server is needed since the form posts directly to Pipedream
+
+These landing pages can also be hosted on GitHub Pages, Netlify, or Vercel without any adjustments.
