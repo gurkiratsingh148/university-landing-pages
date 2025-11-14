@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "university": "National Tech University",
+    "updated": "2025-11-14",
+    "brochureUrl": "assets/images2/NTU_Mid_Brochure.pdf"
+  },
+  "programs": [
+    {
+      "id": "eng-cse",
+      "title": "B.Tech — Computer Science & Engineering",
+      "subtitle": "4-year degree with AI / ML & Data Science tracks",
+      "shortDesc": "Specializations: AI & ML, Data Science, Cybersecurity. 4-year program with internship opportunities.",
+      "fullDesc": "The B.Tech Computer Science & Engineering program offers a rigorous foundation in algorithms, systems, and software engineering with applied tracks in AI/ML and Data Science. Students complete capstone projects, an industry internship in year 3, and receive mentorship from partner companies.",
+      "specializations": ["AI & ML", "Data Science", "Cybersecurity"],
+      "duration": "4 years",
+      "brochure": "assets/images2/NTU_Mid_Brochure.pdf",
+      "applyUrl": "#apply?course=eng-cse"
+    },
+    {
+      "id": "mba-mkt-fin",
+      "title": "MBA — Marketing / Finance",
+      "subtitle": "2-year industry connected MBA",
+      "shortDesc": "2-year program with live projects and industry tie-ups for consulting and finance placements and many more.",
+      "fullDesc": "Our MBA program emphasizes practical experience: consulting live-projects, internships, and leadership labs. Industry practitioners teach elective modules and students participate in corporate immersion weeks and mentorship programs.",
+      "specializations": ["Marketing", "Finance", "International Business"],
+      "duration": "2 years",
+      "brochure": "assets/images2/NTU_Mid_Brochure.pdf",
+      "applyUrl": "#apply?course=mba-mkt-fin"
+    },
+    {
+      "id": "msc-ds",
+      "title": "M.Sc — Data Science & Analytics",
+      "subtitle": "Advanced analytics, ML & practicum",
+      "shortDesc": "Advanced data analytics, machine learning, and industry practicum for practical skills and placements and mnc companies.",
+      "fullDesc": "The M.Sc in Data Science is research-driven and practice-oriented. Students learn statistical foundations, deep learning, and deploy real models in capstone industry projects guided by faculty and industrial partners.",
+      "specializations": ["Machine Learning", "Deep Learning", "Big Data Engineering"],
+      "duration": "2 years",
+      "brochure": "assets/images2/NTU_Mid_Brochure.pdf",
+      "applyUrl": "#apply?course=msc-ds"
+    },
+    {
+      "id": "bba",
+      "title": "BBA — Business Administration",
+      "subtitle": "Entrepreneurship and analytics focused",
+      "shortDesc": "Industry-linked curriculum focused on entrepreneurship, analytics and management essentials.",
+      "fullDesc": "A three-year undergraduate program combining fundamentals of management with practical skills in analytics, entrepreneurship and soft skills training. Industry internships and incubation bootcamps are core to the curriculum.",
+      "specializations": ["Entrepreneurship", "Business Analytics"],
+      "duration": "3 years",
+      "brochure": "assets/images2/NTU_Mid_Brochure.pdf",
+      "applyUrl": "#apply?course=bba"
+    }
+  ],
+  "research": [
+    {
+      "id": "ai-center",
+      "title": "Center for Artificial Intelligence",
+      "summary": "Machine learning, NLP & computer vision with industry partnerships.",
+      "highlights": [
+        "15+ research publications in 2024",
+        "₹2.5 Crore research grants",
+        "Industry collaborations with tech companies"
+      ],
+      "image": "assets/images2/research.jpg"
+    },
+    {
+      "id": "bio-hub",
+      "title": "Biotechnology Innovation Hub",
+      "summary": "Genetic research, pharmaceutical development & sustainable agriculture solutions.",
+      "highlights": [
+        "3 patents filed",
+        "International research collaborations",
+        "Student-led startup incubation"
+      ],
+      "image": "assets/images2/bio.webp"
+    }
+  ],
+  "facilities": [
+    {
+      "id": "library",
+      "title": "Digital Library",
+      "desc": "200,000+ volumes, 50,000+ e-journals, and advanced research databases with 24/7 access.",
+      "image": "assets/images2/lib/library.jpg"
+    },
+    {
+      "id": "labs",
+      "title": "Advanced Laboratories",
+      "desc": "Cutting-edge research facilities with industry-standard equipment across all disciplines.",
+      "image": "assets/images2/lib/advance.jpg"
+    },
+    {
+      "id": "sports",
+      "title": "Athletics Complex",
+      "desc": "Olympic-size swimming pool, indoor stadium, fitness center, and multiple sports fields.",
+      "image": "assets/images2/lib/athletic.png"
+    },
+    {
+      "id": "hostels",
+      "title": "Student Residences",
+      "desc": "Modern hostel facilities with single and shared accommodations, WiFi, and recreational areas.",
+      "image": "assets/images2/lib/hosterl1.jpg"
+    }
+  ],
+  "admissions": {
+    "steps": [
+      {
+        "step": 1,
+        "title": "Application Submission",
+        "desc": "Complete the online application form with required documents."
+      },
+      {
+        "step": 2,
+        "title": "Entrance Examination / Merit",
+        "desc": "Take the entrance test or apply via national exam scores as applicable."
+      },
+      {
+        "step": 3,
+        "title": "Interview & Shortlisting",
+        "desc": "Shortlisted candidates go through a panel interview or group discussion."
+      },
+      {
+        "step": 4,
+        "title": "Offer & Fee Payment",
+        "desc": "Selected candidates receive an offer letter and complete fee payment to confirm admission."
+      }
+    ],
+    "contactEmail": "admissions@ntu.edu.in",
+    "contactPhone": "+91-44-5555-0101"
+  }
+}

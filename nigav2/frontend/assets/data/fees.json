@@ -1,0 +1,85 @@
+{
+  "B.Tech — Computer Science": {
+    "duration": "4 Years",
+    "tuition": "₹1,60,000 / year",
+    "admission_fee": "₹15,000 (one-time)",
+    "hostel_non_ac": "₹65,000 / year",
+    "hostel_ac": "₹90,000 / year",
+    "exam_fee": "₹8,000 / year",
+    "books_material": "₹12,000 / year",
+    "lab_fee": "₹7,500 / year",
+    "security_refundable": "₹5,000 (one-time)",
+    "transport_optional": "₹18,000 – ₹25,000 / year",
+    "extra_classes": "Free coding bootcamps, placement prep, weekly practical workshops"
+  },
+
+  "MBA — Marketing / Finance": {
+    "duration": "2 Years",
+    "tuition": "₹1,45,000 / year",
+    "admission_fee": "₹20,000 (one-time)",
+    "hostel_non_ac": "₹70,000 / year",
+    "hostel_ac": "₹95,000 / year",
+    "exam_fee": "₹10,000 / year",
+    "books_material": "₹14,000 / year",
+    "lab_fee": "₹5,000 / year",
+    "security_refundable": "₹5,000 (one-time)",
+    "transport_optional": "₹18,000 – ₹25,000 / year",
+    "extra_classes": "Live projects, case-study bootcamps, corporate training sessions"
+  },
+
+  "M.Sc — Data Science": {
+    "duration": "2 Years",
+    "tuition": "₹1,20,000 / year",
+    "admission_fee": "₹12,000 (one-time)",
+    "hostel_non_ac": "₹60,000 / year",
+    "hostel_ac": "₹85,000 / year",
+    "exam_fee": "₹7,500 / year",
+    "books_material": "₹10,000 / year",
+    "lab_fee": "₹8,000 / year",
+    "security_refundable": "₹5,000 (one-time)",
+    "transport_optional": "₹18,000 – ₹25,000 / year",
+    "extra_classes": "Machine learning workshops, Python training, internship projects"
+  },
+
+  "BBA — Business Administration": {
+    "duration": "3 Years",
+    "tuition": "₹95,000 / year",
+    "admission_fee": "₹10,000 (one-time)",
+    "hostel_non_ac": "₹55,000 / year",
+    "hostel_ac": "₹80,000 / year",
+    "exam_fee": "₹6,000 / year",
+    "books_material": "₹8,000 / year",
+    "lab_fee": "₹3,500 / year",
+    "security_refundable": "₹5,000 (one-time)",
+    "transport_optional": "₹15,000 – ₹22,000 / year",
+    "extra_classes": "Business analytics classes, personality development, industry tours"
+  },
+
+  "B.Tech — Civil Engineering": {
+    "duration": "4 Years",
+    "tuition": "₹1,50,000 / year",
+    "admission_fee": "₹15,000 (one-time)",
+    "hostel_non_ac": "₹65,000 / year",
+    "hostel_ac": "₹90,000 / year",
+    "exam_fee": "₹8,000 / year",
+    "books_material": "₹12,000 / year",
+    "lab_fee": "₹9,000 / year",
+    "security_refundable": "₹5,000 (one-time)",
+    "transport_optional": "₹18,000 – ₹25,000 / year",
+    "extra_classes": "Surveying workshops, AutoCAD training, onsite field visits"
+  },
+
+  "BCA — Computer Applications": {
+    "duration": "3 Years",
+    "tuition": "₹80,000 / year",
+    "admission_fee": "₹10,000 (one-time)",
+    "hostel_non_ac": "₹55,000 / year",
+    "hostel_ac": "₹80,000 / year",
+    "exam_fee": "₹6,000 / year",
+    "books_material": "₹6,500 / year",
+    "lab_fee": "₹5,000 / year",
+    "security_refundable": "₹5,000 (one-time)",
+    "transport_optional": "₹15,000 – ₹22,000 / year",
+    "extra_classes": "Programming training, project development workshops, hackathons"
+  }
+}
